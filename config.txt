@@ -1,0 +1,6 @@
+mainDocument=lista.xlsx
+OFSICSVFile=ConList.csv
+OFSIReturnIndex=1
+OFACSDNFileName=SDN.csv
+OFACAddressFileName=ADD.csv
+OFACAlterFileName=ALT.csv
